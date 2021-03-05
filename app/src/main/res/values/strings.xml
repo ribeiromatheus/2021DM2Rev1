@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">2021DM2Rev1</string>
+    <string name="hello">Olá, seja bem vindo!</string>
+    <string name="dica">Digite seu nome</string>
+    <string name="ola">Dar Olá</string>
+    <string name="str_lista">Lista de Presença</string>
+</resources>
